@@ -1,2 +1,1 @@
-# Mobile-Price-Prediction
-Mobile Phone price prediction project for intel unnathi
+# Mobile-Phone-Price-Prediction-using-ML
